@@ -18,6 +18,10 @@ practice4_1/
 └── pytest.ini
 ```
 
+## Скріншот coverage звіту 
+<img width="1224" height="520" alt="зображення" src="https://github.com/user-attachments/assets/dddf041e-e5ea-4696-b5d2-71115a094cfd" />
+
+
 ## Встановлення залежностей
 
 ```bash
